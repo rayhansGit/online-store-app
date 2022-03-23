@@ -1,0 +1,10 @@
+.home-bg{
+    background:url('https://www.pagero.fi/wp-content/uploads/e-procurement_blogg_social_one-layer.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 85vh;
+}
+
+.login-form{
+    max-width: 600px;
+}
